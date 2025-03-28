@@ -8,8 +8,6 @@
   </a>
 </div>
 
-## Most Used Languages
-
 <div align="center">
   <a href="https://github.com/AcryTrix">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcryTrix&layout=compact&hide_border=true&theme=radical" />
