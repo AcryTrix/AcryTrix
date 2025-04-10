@@ -18,4 +18,4 @@
 
 Here are technologies I work with:
 
-![My Skills](https://skillicons.dev/icons?i=py,rust,git,github,pycharm,zed&theme=dark&perline=5)
+![My Skills](https://skillicons.dev/icons?i=py,rust,git,github,pycharm&theme=dark&perline=5)
